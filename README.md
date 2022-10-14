@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syafiq</h1>
-<h3 align="center">tes</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Research and Innovation Agency**
+- 🔭 I’m currently working on **National Research and Innovation Agency, Indonesia**
 
 - 📫 How to reach me **ahmadsyafiqkamil@gmail.com**
 
