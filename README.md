@@ -9,6 +9,12 @@ I’m proud of my ability to lead teams, think critically under pressure, and ad
 Feel free to send me a DM if you’re looking to collaborate or discuss potential opportunities!
 
 
+- 📫 How to reach me:
+  - ahmadsyafiqkamil@gmail.com
+  - https://www.linkedin.com/in/ahmadsyafiqkamil/
+    
+
+
 <!--
 **ahmadsyafiqkamil/ahmadsyafiqkamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
